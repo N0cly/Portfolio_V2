@@ -1,11 +1,3 @@
-/*=============== Typed ===============*/
-// var typed = new Typed('#element', {
-// 	strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
-// 	typeSpeed: 50,
-//   });
-
-
-
 /*=============== MENU SHOW Y HIDDEN ===============*/
 const navMenu = document.getElementById('nav-menu'),
 	navToggle = document.getElementById('nav-toggle'),
